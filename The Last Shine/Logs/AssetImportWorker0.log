@@ -147,3 +147,28 @@ Received Import Request.
 Start importing Assets/Scenes using Guid(10329e8e21ad50c42afd626ad7a4ac2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84dca197d96f612751571b4871cf69d7') in 0.012590 seconds 
   Import took 0.020851 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1146.313720 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.011476 seconds 
+  Import took 0.020539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.195914 seconds.
+  path: Assets/Assets propios
+  artifactKey: Guid(2c44efa9d024ca44d8fac76bda90fa6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets propios using Guid(2c44efa9d024ca44d8fac76bda90fa6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37b15dc7902f54990e4c069cb1733bce') in 0.011532 seconds 
+  Import took 0.017664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.214773 seconds.
+  path: Assets/Assets propios/MicrosoftTeams-image (3).png
+  artifactKey: Guid(747d7bae4a7b4ce43beb8ee253d433cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets propios/MicrosoftTeams-image (3).png using Guid(747d7bae4a7b4ce43beb8ee253d433cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '213373bae7f669c02a0b2ac3603b682f') in 0.198606 seconds 
+  Import took 0.204029 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
