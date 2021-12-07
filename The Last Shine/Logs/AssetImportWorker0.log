@@ -15,11 +15,11 @@ C:/Users/juanz/Documents/Unity Github/Proyecto3erParcial/The Last Shine
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61311
+62935
 Successfully changed project path to: C:/Users/juanz/Documents/Unity Github/Proyecto3erParcial/The Last Shine
 C:/Users/juanz/Documents/Unity Github/Proyecto3erParcial/The Last Shine
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 33.77 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 34.72 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.23f1 (c5d91304a876)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/Resources/UnitySubsystems
@@ -35,73 +35,73 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56848
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56692
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001575 seconds.
+Registered in 0.001633 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 33.76 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 34.35 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.424 seconds
+- Completed reload, in  0.392 seconds
 Domain Reload Profiling:
-	ReloadAssembly (425ms)
-		BeginReloadAssembly (41ms)
+	ReloadAssembly (392ms)
+		BeginReloadAssembly (38ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (328ms)
-			LoadAssemblies (39ms)
+		EndReloadAssembly (303ms)
+			LoadAssemblies (37ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (104ms)
+			SetupTypeCache (93ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (20ms)
-			SetupLoadedEditorAssemblies (130ms)
+			RebuildScriptCaches (18ms)
+			SetupLoadedEditorAssemblies (123ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (34ms)
-				BeforeProcessingInitializeOnLoad (7ms)
-				ProcessInitializeOnLoadAttributes (64ms)
-				ProcessInitializeOnLoadMethodAttributes (22ms)
+				BeforeProcessingInitializeOnLoad (6ms)
+				ProcessInitializeOnLoadAttributes (59ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003739 seconds.
+Registered in 0.003805 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 35.26 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 33.69 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.806 seconds
+- Completed reload, in  0.745 seconds
 Domain Reload Profiling:
-	ReloadAssembly (807ms)
-		BeginReloadAssembly (100ms)
+	ReloadAssembly (745ms)
+		BeginReloadAssembly (96ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (16ms)
-		EndReloadAssembly (661ms)
-			LoadAssemblies (69ms)
+			CreateAndSetChildDomain (14ms)
+		EndReloadAssembly (606ms)
+			LoadAssemblies (67ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (209ms)
+			SetupTypeCache (189ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (33ms)
-			SetupLoadedEditorAssemblies (266ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (245ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (35ms)
-				BeforeProcessingInitializeOnLoad (57ms)
-				ProcessInitializeOnLoadAttributes (152ms)
-				ProcessInitializeOnLoadMethodAttributes (13ms)
+				RefreshPlugins (34ms)
+				BeforeProcessingInitializeOnLoad (51ms)
+				ProcessInitializeOnLoadAttributes (140ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
 				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -110,14 +110,14 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2192 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 95.7 MB.
 System memory in use after: 95.8 MB.
 
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2625.
-Total: 3.287000 ms (FindLiveObjects: 0.178200 ms CreateObjectMapping: 0.053100 ms MarkObjects: 2.995000 ms  DeleteObjects: 0.059200 ms)
+Total: 2.937000 ms (FindLiveObjects: 0.153200 ms CreateObjectMapping: 0.052200 ms MarkObjects: 2.677800 ms  DeleteObjects: 0.052800 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -131,32 +131,2057 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Assets propios
-  artifactKey: Guid(2c44efa9d024ca44d8fac76bda90fa6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets propios using Guid(2c44efa9d024ca44d8fac76bda90fa6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98647cacefb8e9064bdb9d715b207cf2') in 0.010604 seconds 
-  Import took 0.013353 seconds .
+  path: Assets/Hero and Opponents/Scenes
+  artifactKey: Guid(38762a89264457d46bb65741a18eb88a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Scenes using Guid(38762a89264457d46bb65741a18eb88a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13101288ffcd24c1684fb6cfbd2c97d') in 0.008315 seconds 
+  Import took 0.010757 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000164 seconds.
-  path: Assets/Assets propios/MicrosoftTeams-image (3).png
-  artifactKey: Guid(747d7bae4a7b4ce43beb8ee253d433cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets propios/MicrosoftTeams-image (3).png using Guid(747d7bae4a7b4ce43beb8ee253d433cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76a9b308d0bd60ffe5fc277c5e29974a') in 0.077157 seconds 
-  Import took 0.079989 seconds .
+  Time since last request: 23.974098 seconds.
+  path: Assets/Hero and Opponents/Sprites
+  artifactKey: Guid(2e64d8f37aea0384a975e1145368d947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites using Guid(2e64d8f37aea0384a975e1145368d947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c86aa079ec1e60b88100a508a6d2875') in 0.006593 seconds 
+  Import took 0.009216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.510032 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2
+  artifactKey: Guid(413fb0bb202afac40a8dfa7703779961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2 using Guid(413fb0bb202afac40a8dfa7703779961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25f6067ff8a82cbf9ea17c74992dcd92') in 0.007094 seconds 
+  Import took 0.009786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073863 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-A1.png
+  artifactKey: Guid(8703caf37546c2c48b22fb47a3d83e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-A1.png using Guid(8703caf37546c2c48b22fb47a3d83e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48df0f27cc9ebc0799da6ae98b34fa2d') in 0.069128 seconds 
+  Import took 0.071786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/hit-3.png
+  artifactKey: Guid(28c607b7284038b4786820beffdc3fe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/hit-3.png using Guid(28c607b7284038b4786820beffdc3fe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb419f3fba72f5d259e05d62fbce1b74') in 0.010574 seconds 
+  Import took 0.012899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/walk-2.png
+  artifactKey: Guid(7ba91eba757962246a6d881445afbfcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/walk-2.png using Guid(7ba91eba757962246a6d881445afbfcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54360457962bdf2463e07636a23b8c1b') in 0.009772 seconds 
+  Import took 0.012356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/dead-3.png
+  artifactKey: Guid(583e1a00d40beb146a9d72384ac98adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/dead-3.png using Guid(583e1a00d40beb146a9d72384ac98adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72fdb6fa8530ac77659cf713f638b30d') in 0.010437 seconds 
+  Import took 0.013003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/jump-4.png
+  artifactKey: Guid(9baaebc385ad64c46ae7c798044edbab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/jump-4.png using Guid(9baaebc385ad64c46ae7c798044edbab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf1554c8c1df7afd401cc8dc5d9e75df') in 0.009809 seconds 
+  Import took 0.012335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-A5.png
+  artifactKey: Guid(f29b449cceb6a7444a37c6cfdd2591da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-A5.png using Guid(f29b449cceb6a7444a37c6cfdd2591da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58713e38b239976120c5405190b60bbd') in 0.010079 seconds 
+  Import took 0.012602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/walk-1.png
+  artifactKey: Guid(3739491a635c3de479e7e2243f14448a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/walk-1.png using Guid(3739491a635c3de479e7e2243f14448a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23a61e644a366e51a2906737378ef358') in 0.010121 seconds 
+  Import took 0.012819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/idle-2.png
+  artifactKey: Guid(4521d5d13324d1f4b839e6dbf5bf44a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/idle-2.png using Guid(4521d5d13324d1f4b839e6dbf5bf44a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28570063f4458fb90dfcb6e686ce1f5d') in 0.010117 seconds 
+  Import took 0.012561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-A11.png
+  artifactKey: Guid(906ed0f1417ccd64887507e1f585665e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-A11.png using Guid(906ed0f1417ccd64887507e1f585665e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '038c4eb346ea24ab65cc28f1621e2b5a') in 0.010933 seconds 
+  Import took 0.013498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-B2.png
+  artifactKey: Guid(b6721e85b1e683c4eb89321015edd6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-B2.png using Guid(b6721e85b1e683c4eb89321015edd6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ccd3ab36e655ca390350f941739a89b') in 0.012537 seconds 
+  Import took 0.015110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-A12.png
+  artifactKey: Guid(a0cd5da40e7bb634ea2d424e7a9c293d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-A12.png using Guid(a0cd5da40e7bb634ea2d424e7a9c293d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd5acd3923e8e083dee02456e2de1461') in 0.009950 seconds 
+  Import took 0.012469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/idle-1.png
+  artifactKey: Guid(af16cb225967af543b9c764da4690c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/idle-1.png using Guid(af16cb225967af543b9c764da4690c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25d27b818c6988d78a44a57a5e79747e') in 0.009873 seconds 
+  Import took 0.012573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/idle-3.png
+  artifactKey: Guid(856d3d74a40940642a0f42b82eb3c8ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/idle-3.png using Guid(856d3d74a40940642a0f42b82eb3c8ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '632195837de5549bff13e185d8c23407') in 0.011263 seconds 
+  Import took 0.013841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/jump-1.png
+  artifactKey: Guid(0902635682d5fe044a7489bc7021e265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/jump-1.png using Guid(0902635682d5fe044a7489bc7021e265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34855806f861fc37192ee60ee4de05e4') in 0.010492 seconds 
+  Import took 0.013181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/jump-5.png
+  artifactKey: Guid(d2a475a12f81f1e44a05b67709077ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/jump-5.png using Guid(d2a475a12f81f1e44a05b67709077ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fa04dd9c97956e39e11aebc2d8357c1') in 0.010009 seconds 
+  Import took 0.012455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/walk-5.png
+  artifactKey: Guid(391dd47d67abb9940a2ab0f96d5cc3ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/walk-5.png using Guid(391dd47d67abb9940a2ab0f96d5cc3ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85ea5da0191a7acaee6f275c64d5cabf') in 0.010080 seconds 
+  Import took 0.012580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/walk-3.png
+  artifactKey: Guid(72ab74851b213a4468dd6f78f3b67e15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/walk-3.png using Guid(72ab74851b213a4468dd6f78f3b67e15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f09662c5cb48bb70c07ff5642f6fe2c9') in 0.010519 seconds 
+  Import took 0.012913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-A9.png
+  artifactKey: Guid(edd97a80a81597f4fb0bbe103ee61ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-A9.png using Guid(edd97a80a81597f4fb0bbe103ee61ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb4579ebe94548567aa2de09ee2818d') in 0.010839 seconds 
+  Import took 0.013624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-B3.png
+  artifactKey: Guid(a823f57d1e9b1f04aaefe79f291c014c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-B3.png using Guid(a823f57d1e9b1f04aaefe79f291c014c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10cf882e9535885dcf8f25d4d44bb2a5') in 0.009959 seconds 
+  Import took 0.012440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-B4.png
+  artifactKey: Guid(3f7ba9abb1f652a47a5aa20ac87d9475) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-B4.png using Guid(3f7ba9abb1f652a47a5aa20ac87d9475) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5696f853e3837af2f3655916de4ac9bf') in 0.010154 seconds 
+  Import took 0.012732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-A2.png
+  artifactKey: Guid(e76ba54d0ba86fa40a3e016e7fdccb41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-A2.png using Guid(e76ba54d0ba86fa40a3e016e7fdccb41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90287918744deb12cd96816d139e2f4b') in 0.009954 seconds 
+  Import took 0.012584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/hit-2.png
+  artifactKey: Guid(3c4a8e5f4b5318b46983b970fdd40e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/hit-2.png using Guid(3c4a8e5f4b5318b46983b970fdd40e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ff397b901edb2c0d2907987b56b2151') in 0.010927 seconds 
+  Import took 0.014027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/dead-4.png
+  artifactKey: Guid(cc4a18e1e2f55e7479dade304adc85cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/dead-4.png using Guid(cc4a18e1e2f55e7479dade304adc85cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e50dd626ef75b5f94a06abd8cba5a3a1') in 0.010613 seconds 
+  Import took 0.013315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/walk-4.png
+  artifactKey: Guid(8d6ad5966b5a779448ba6c7e0f263a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/walk-4.png using Guid(8d6ad5966b5a779448ba6c7e0f263a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df59b25928bbfd5dd522ebb2b2c7bdd6') in 0.010226 seconds 
+  Import took 0.012734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-A7.png
+  artifactKey: Guid(d4d2ae92f2638cf4f91b1cc49bdc0b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-A7.png using Guid(d4d2ae92f2638cf4f91b1cc49bdc0b27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3170c01345c57e4355998c97e717cc33') in 0.012128 seconds 
+  Import took 0.014596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-B1.png
+  artifactKey: Guid(bd5a4755f009e054a93a833ae69956f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-B1.png using Guid(bd5a4755f009e054a93a833ae69956f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '908b2032972ef43d74b48faa6dcdd218') in 0.010215 seconds 
+  Import took 0.013014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-A10.png
+  artifactKey: Guid(cc36c6fa15513914c9052f6b8bce3c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-A10.png using Guid(cc36c6fa15513914c9052f6b8bce3c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ef9855d9f960f624df40c5c1fb27773') in 0.010137 seconds 
+  Import took 0.012862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-A3.png
+  artifactKey: Guid(566b749bd6907dc45a210b5626831a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-A3.png using Guid(566b749bd6907dc45a210b5626831a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b7a63546a5864349f5e3b70d33931ab') in 0.010409 seconds 
+  Import took 0.012970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-B5.png
+  artifactKey: Guid(fe208b5354636174eb44c6e90d8b07fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-B5.png using Guid(fe208b5354636174eb44c6e90d8b07fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59e822499dcccde550c9d92da9da85b4') in 0.010227 seconds 
+  Import took 0.012632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/shield-block-1.png
+  artifactKey: Guid(3757da37e36931447b84ca852c015afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/shield-block-1.png using Guid(3757da37e36931447b84ca852c015afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e09bc7c543e5480414067512065dac9') in 0.010231 seconds 
+  Import took 0.013171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/shield-block-2.png
+  artifactKey: Guid(93712d13d205c0543a397e7a337977fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/shield-block-2.png using Guid(93712d13d205c0543a397e7a337977fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c2e789fb88e59bb7a708488695be92e') in 0.009992 seconds 
+  Import took 0.012512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/walk-6.png
+  artifactKey: Guid(17617ec3f1ceeea40a929f553f02b6bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/walk-6.png using Guid(17617ec3f1ceeea40a929f553f02b6bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64ebe7a3751597c26fcec12539c7cae2') in 0.010268 seconds 
+  Import took 0.013157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/jump-3.png
+  artifactKey: Guid(cb105fc34bff67146be09b680d162557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/jump-3.png using Guid(cb105fc34bff67146be09b680d162557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1d674ec3740269abaf4c0c6ec1d7a92') in 0.010056 seconds 
+  Import took 0.012575 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000134 seconds.
-  path: Assets/Scenes
-  artifactKey: Guid(10329e8e21ad50c42afd626ad7a4ac2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(10329e8e21ad50c42afd626ad7a4ac2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1a340dc8939206f4105c067c2d941e') in 0.005627 seconds 
-  Import took 0.008471 seconds .
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-A4.png
+  artifactKey: Guid(4ca63e093201493469a8044bc3eb0e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-A4.png using Guid(4ca63e093201493469a8044bc3eb0e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0198e67b4e7745f5b3b35a0de351cbbc') in 0.010669 seconds 
+  Import took 0.013318 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 34.548767 seconds.
-  path: Assets/Assets propios/blank_tradingcard.jpg
-  artifactKey: Guid(54aa16b27174cc54b8cb257db1e5a319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Assets propios/blank_tradingcard.jpg using Guid(54aa16b27174cc54b8cb257db1e5a319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9e3af3e0d9b51896a12ff64b8a9a8ae') in 0.017032 seconds 
-  Import took 0.020879 seconds .
+  Time since last request: 0.000160 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-A6.png
+  artifactKey: Guid(74d7c0a55400a7d43be83812cc815dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-A6.png using Guid(74d7c0a55400a7d43be83812cc815dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f726ca682d095e3464a81b70efe7d9') in 0.009932 seconds 
+  Import took 0.012500 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-B6.png
+  artifactKey: Guid(83af3cf63aa38ea4bac1f82e54d99d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-B6.png using Guid(83af3cf63aa38ea4bac1f82e54d99d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f45a05076812a053ab61f44dd43a3181') in 0.010590 seconds 
+  Import took 0.013098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-B7.png
+  artifactKey: Guid(3a742c30c1875074688c6cbd67ed91fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-B7.png using Guid(3a742c30c1875074688c6cbd67ed91fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d25ae871d4995d8937027ef6b112577') in 0.010615 seconds 
+  Import took 0.013230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/dead-1.png
+  artifactKey: Guid(9369f7ee9a010de419a19066d7a86ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/dead-1.png using Guid(9369f7ee9a010de419a19066d7a86ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd74f9ad641c886eeb1e877b1ef7578be') in 0.010753 seconds 
+  Import took 0.013290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/dead-2.png
+  artifactKey: Guid(c5468149325ae5545a5dd17de851b87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/dead-2.png using Guid(c5468149325ae5545a5dd17de851b87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e93889f411f4b066aa94317b20a7749') in 0.010231 seconds 
+  Import took 0.012727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/jump-2.png
+  artifactKey: Guid(39fc07b598af2d44b8bc426acb76937d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/jump-2.png using Guid(39fc07b598af2d44b8bc426acb76937d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f287dc1dd596e19cbfe4a9d17ace4cec') in 0.010393 seconds 
+  Import took 0.013118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/idle-4.png
+  artifactKey: Guid(12e8bfa74f09e594c912c50916363f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/idle-4.png using Guid(12e8bfa74f09e594c912c50916363f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '617ad95ca463fa52ae66d47da6f0d138') in 0.009777 seconds 
+  Import took 0.012406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/hit-1.png
+  artifactKey: Guid(b3c062f5ae8060f41b9a723e83402999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/hit-1.png using Guid(b3c062f5ae8060f41b9a723e83402999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8074f8e6a1597388ca333322c0d772a') in 0.010864 seconds 
+  Import took 0.013728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy2/attack-A8.png
+  artifactKey: Guid(1f6a8ee66fc2b2f4eb8beaf25dd3a841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy2/attack-A8.png using Guid(1f6a8ee66fc2b2f4eb8beaf25dd3a841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c8165d77a170c436944946118e81dd') in 0.011546 seconds 
+  Import took 0.014074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.064362 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1
+  artifactKey: Guid(08bbafb6d22c39041b2d0fb62a89027d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1 using Guid(08bbafb6d22c39041b2d0fb62a89027d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ba6709f3e8b53685a2b94877a0c0e46') in 0.005365 seconds 
+  Import took 0.008030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.082415 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-A1.png
+  artifactKey: Guid(5bdd6c37d70a73048840f49b5f4c1587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-A1.png using Guid(5bdd6c37d70a73048840f49b5f4c1587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ace1711399f89e7a3e687ecae2d30ac9') in 0.009069 seconds 
+  Import took 0.011825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/jump-2.png
+  artifactKey: Guid(0f76e144692af4340a4016991ca9c0e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/jump-2.png using Guid(0f76e144692af4340a4016991ca9c0e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db08b08ed3a0ca0a9a3768b3ced1bb32') in 0.009055 seconds 
+  Import took 0.011694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/jump-6.png
+  artifactKey: Guid(ab5b62f48fe59fe4ea76d7a30272a96a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/jump-6.png using Guid(ab5b62f48fe59fe4ea76d7a30272a96a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a823ce124739aaf9079b503e7771e346') in 0.009772 seconds 
+  Import took 0.012293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/walk-2.png
+  artifactKey: Guid(d85184f0406735a42bd95467ea855be5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/walk-2.png using Guid(d85184f0406735a42bd95467ea855be5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6792a781bed35acac98baef53ef4aa5') in 0.010627 seconds 
+  Import took 0.013140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/idle-3.png
+  artifactKey: Guid(d7b196a6a0ae82848883d1590bd02311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/idle-3.png using Guid(d7b196a6a0ae82848883d1590bd02311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7964f47f5e74056ce8f6b409d5f7460e') in 0.006859 seconds 
+  Import took 0.009285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-A5.png
+  artifactKey: Guid(2c5ce848148293b4ab8396450d89a900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-A5.png using Guid(2c5ce848148293b4ab8396450d89a900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03b63d527e1e33b55d54fcfdd8c4fce0') in 0.009705 seconds 
+  Import took 0.012124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/dead-3.png
+  artifactKey: Guid(bf93c7eeb9866ce40b9b7fb76f150e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/dead-3.png using Guid(bf93c7eeb9866ce40b9b7fb76f150e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6646a61c00fc90d388eee2f12eba43e') in 0.009444 seconds 
+  Import took 0.011934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-B9.png
+  artifactKey: Guid(c2ed980e24e489a44a52d55bf034b91f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-B9.png using Guid(c2ed980e24e489a44a52d55bf034b91f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87680ee834edd4a8d06a5cd0a4224cc9') in 0.010305 seconds 
+  Import took 0.012736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/idle-1.png
+  artifactKey: Guid(ae44d6ca9dc728943a492226b377d3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/idle-1.png using Guid(ae44d6ca9dc728943a492226b377d3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845d0a1eee02dc360361af19d5135897') in 0.006816 seconds 
+  Import took 0.009322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-A6.png
+  artifactKey: Guid(04f1e2682a6f2464ea7dc79b7b3cf288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-A6.png using Guid(04f1e2682a6f2464ea7dc79b7b3cf288) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c25d749b829e99cb49e0b70daf7eebd2') in 0.006660 seconds 
+  Import took 0.009416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/walk-1.png
+  artifactKey: Guid(1ff3bb5d141c2204ea7a71ac5fed23ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/walk-1.png using Guid(1ff3bb5d141c2204ea7a71ac5fed23ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdc24a6d3e1eb08cf99ac52ed1c43bec') in 0.009475 seconds 
+  Import took 0.012190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-B7.png
+  artifactKey: Guid(9916b279ae2df8f4bac78c1ec07fe869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-B7.png using Guid(9916b279ae2df8f4bac78c1ec07fe869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b66078aec6a492eea55ce89b0f0ee43a') in 0.009378 seconds 
+  Import took 0.012073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/jump-5.png
+  artifactKey: Guid(e012fe9f7bb2e2f4e8c3745d7b525835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/jump-5.png using Guid(e012fe9f7bb2e2f4e8c3745d7b525835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5723d429f431ca2e1165c8160bdeb939') in 0.009099 seconds 
+  Import took 0.011860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/walk-5.png
+  artifactKey: Guid(13f222e87a142f8429bdf50c087e22a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/walk-5.png using Guid(13f222e87a142f8429bdf50c087e22a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49c9071905304a9b3ec341fbb5dff8bf') in 0.009606 seconds 
+  Import took 0.011970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-A4.png
+  artifactKey: Guid(081ea5419f586434d92e4211d21b7278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-A4.png using Guid(081ea5419f586434d92e4211d21b7278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '878a4b4029c09f8bb68eb2217130e611') in 0.009846 seconds 
+  Import took 0.012614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/jump-3.png
+  artifactKey: Guid(6c04d3baf60efaa46ba5088cea8c4fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/jump-3.png using Guid(6c04d3baf60efaa46ba5088cea8c4fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f190d3aa61bc13731558f976a76a2be9') in 0.010123 seconds 
+  Import took 0.012604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-B4.png
+  artifactKey: Guid(bb718c45f6b1cd646b6f5a25ae0c7eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-B4.png using Guid(bb718c45f6b1cd646b6f5a25ae0c7eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '826efc602370184bca1f7c10af8ed9df') in 0.009751 seconds 
+  Import took 0.012416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-B11.png
+  artifactKey: Guid(177a5a7b72a3cfe4da806bafa83ed1ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-B11.png using Guid(177a5a7b72a3cfe4da806bafa83ed1ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce04be3d8af1fad6bd66503bc1c1c4fb') in 0.010516 seconds 
+  Import took 0.012835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-B1.png
+  artifactKey: Guid(92c0b5bf591389a4e8beabc3a0cef886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-B1.png using Guid(92c0b5bf591389a4e8beabc3a0cef886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b043d30f748e1f58a47a19668736ae4') in 0.006915 seconds 
+  Import took 0.009427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/hit-3.png
+  artifactKey: Guid(2eb930033cfb3b44ab28e2a454c85334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/hit-3.png using Guid(2eb930033cfb3b44ab28e2a454c85334) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11c9e8cc4a5cb75f43aec8a159f6aff') in 0.009534 seconds 
+  Import took 0.012218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-B6.png
+  artifactKey: Guid(ab4b89c2327ac3547919e4e1170a1c20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-B6.png using Guid(ab4b89c2327ac3547919e4e1170a1c20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d628c563edda7d2afa0dd9d62516b3') in 0.010522 seconds 
+  Import took 0.013108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/dead-1.png
+  artifactKey: Guid(af2d29e6b98295a4d8b0eeb19ce572e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/dead-1.png using Guid(af2d29e6b98295a4d8b0eeb19ce572e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b61810e3a7509134445d85e9d0e155a4') in 0.009355 seconds 
+  Import took 0.011920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/jump-4.png
+  artifactKey: Guid(3c132cebcbaa23e419458b9c86201d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/jump-4.png using Guid(3c132cebcbaa23e419458b9c86201d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '071eabec4eb28f4f0e1065020d8b360a') in 0.009552 seconds 
+  Import took 0.012096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/hit-2.png
+  artifactKey: Guid(b030faf6265062844a0f5eb84eb77a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/hit-2.png using Guid(b030faf6265062844a0f5eb84eb77a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e71e488358a88fc6a5a12381c211aab3') in 0.009549 seconds 
+  Import took 0.012396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/walk-3.png
+  artifactKey: Guid(263b4135dc07a0449a54ff7ea70f9256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/walk-3.png using Guid(263b4135dc07a0449a54ff7ea70f9256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '385b5357b57420f7c0b9d171105e0bfd') in 0.009170 seconds 
+  Import took 0.011864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/idle-2.png
+  artifactKey: Guid(35a0ac6d41cc6de45b22da443e039323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/idle-2.png using Guid(35a0ac6d41cc6de45b22da443e039323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bad1aa1cfbb6664d716ab637a42effa') in 0.009790 seconds 
+  Import took 0.012472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/walk-6.png
+  artifactKey: Guid(f023deb19dcb1e24fbad7047ef406f1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/walk-6.png using Guid(f023deb19dcb1e24fbad7047ef406f1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '872f4e7718fb1b98d4d6e9c6daeb73e4') in 0.009378 seconds 
+  Import took 0.011993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/walk-4.png
+  artifactKey: Guid(8e7b1255357589a4c8e5bc7df7e82b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/walk-4.png using Guid(8e7b1255357589a4c8e5bc7df7e82b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '247e6b04d7e3ee996d35388268041ab0') in 0.009479 seconds 
+  Import took 0.012295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/jump-1.png
+  artifactKey: Guid(5f1719dd0d0136540bbff3b5ddf761e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/jump-1.png using Guid(5f1719dd0d0136540bbff3b5ddf761e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d72f3e6fa4a74039ab1c84efaef42fa') in 0.010998 seconds 
+  Import took 0.013415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/dead-4.png
+  artifactKey: Guid(9f4540e95b5dfac44a0e1b9c675311b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/dead-4.png using Guid(9f4540e95b5dfac44a0e1b9c675311b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbecc46dd52bc01f9f0fcd9945a6c8ca') in 0.009514 seconds 
+  Import took 0.012509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-A7.png
+  artifactKey: Guid(d93fc5888f2208c4381ec929c0bab03a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-A7.png using Guid(d93fc5888f2208c4381ec929c0bab03a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3429524ac2c9c6453f7b0396f38b0c') in 0.009563 seconds 
+  Import took 0.012296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-B2.png
+  artifactKey: Guid(cfa1a9013ddeca5458ec3c60edcae52c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-B2.png using Guid(cfa1a9013ddeca5458ec3c60edcae52c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90eb7eaf79d142e6cf39ed6ff34a4ed4') in 0.009595 seconds 
+  Import took 0.011883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-B10.png
+  artifactKey: Guid(5e9b1ef5c63150242960c27b4bdbc2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-B10.png using Guid(5e9b1ef5c63150242960c27b4bdbc2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc168bd12918477b1fa797b3b5db7c64') in 0.010321 seconds 
+  Import took 0.012945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-A2.png
+  artifactKey: Guid(a31b80b129768c647af8a375fe0a00a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-A2.png using Guid(a31b80b129768c647af8a375fe0a00a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a291cb022f45e71a9021d251768148a9') in 0.010582 seconds 
+  Import took 0.013141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-A3.png
+  artifactKey: Guid(1ea46f4d239017e4b9eafb438f33b655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-A3.png using Guid(1ea46f4d239017e4b9eafb438f33b655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20ebc94a2833388732b5654d1efa0456') in 0.010301 seconds 
+  Import took 0.012797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-B5.png
+  artifactKey: Guid(c09086deaf910f24ca170aa2c440ed11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-B5.png using Guid(c09086deaf910f24ca170aa2c440ed11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daa99427f668f6da93c04d8e395ea124') in 0.009217 seconds 
+  Import took 0.011809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/dead-2.png
+  artifactKey: Guid(96be1249c10d64242837e53bbc712bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/dead-2.png using Guid(96be1249c10d64242837e53bbc712bc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a93dcba1b73bcab23c2fcfadbabeae1') in 0.009204 seconds 
+  Import took 0.011700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-A8.png
+  artifactKey: Guid(cbde7f3392edc8c44bf688b4af30079c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-A8.png using Guid(cbde7f3392edc8c44bf688b4af30079c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '652c1b6a87d37fa9fb408e9683c0ab0f') in 0.009888 seconds 
+  Import took 0.012417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-B3.png
+  artifactKey: Guid(6f539dedf0dd41e419c8fbd2db58879b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-B3.png using Guid(6f539dedf0dd41e419c8fbd2db58879b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c92fc1ad818acc8e6c42e99c138586e4') in 0.010114 seconds 
+  Import took 0.012521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/attack-B8.png
+  artifactKey: Guid(86c932378f91f074faaa16674c794cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/attack-B8.png using Guid(86c932378f91f074faaa16674c794cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea640c952954be30043529373cc6e75f') in 0.010676 seconds 
+  Import took 0.013132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/idle-4.png
+  artifactKey: Guid(07091af46495fa14eb73edfdc9f6bda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/idle-4.png using Guid(07091af46495fa14eb73edfdc9f6bda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22e7211e686a722f2a6534854bff2a15') in 0.009408 seconds 
+  Import took 0.011855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy1/hit-1.png
+  artifactKey: Guid(809b3bbd54773f443bff42da123eb73e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy1/hit-1.png using Guid(809b3bbd54773f443bff42da123eb73e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c43782b05f60e31b1b7b2aad63ffc84') in 0.009703 seconds 
+  Import took 0.012011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.732512 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4
+  artifactKey: Guid(36cba78085e87984f81e2d270cf7a236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4 using Guid(36cba78085e87984f81e2d270cf7a236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea832797aa6e68aaa922c5d51b58ab4') in 0.004841 seconds 
+  Import took 0.007661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039943 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/attack-A1.png
+  artifactKey: Guid(2750b4c5b3ad38d43b4d095b1c6e9c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/attack-A1.png using Guid(2750b4c5b3ad38d43b4d095b1c6e9c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76555d239ea29d2e86ea93ebca5f0c64') in 0.009630 seconds 
+  Import took 0.012707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/idle-2.png
+  artifactKey: Guid(749105026f3f84d4d9ae3448b4c82794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/idle-2.png using Guid(749105026f3f84d4d9ae3448b4c82794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d98453cb797b346438e1d6d5d486b6e') in 0.011165 seconds 
+  Import took 0.013556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/walk-3.png
+  artifactKey: Guid(a61e380b02e65914187d4cd06dfee31b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/walk-3.png using Guid(a61e380b02e65914187d4cd06dfee31b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0af5faca3551f7e88085a940c1ffcc92') in 0.010282 seconds 
+  Import took 0.012695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/attack-B4.png
+  artifactKey: Guid(b104f0d12ebe25e4580b710fc034c144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/attack-B4.png using Guid(b104f0d12ebe25e4580b710fc034c144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35c6a616e5a6f9b80656fcb2b01cb7f9') in 0.008987 seconds 
+  Import took 0.011439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/attack-B6.png
+  artifactKey: Guid(d08fe4a10a671684d83aa0273666bb5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/attack-B6.png using Guid(d08fe4a10a671684d83aa0273666bb5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb017dc8f9284ab8ea215442245f9cb9') in 0.010316 seconds 
+  Import took 0.012820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/attack-B9.png
+  artifactKey: Guid(57607658b78ab4742bdc74450174b3d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/attack-B9.png using Guid(57607658b78ab4742bdc74450174b3d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef9b246d814e971452390d94863ec769') in 0.009567 seconds 
+  Import took 0.011955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/attack-A6.png
+  artifactKey: Guid(4781dec62b11ffb4a9f3cca005d6ab57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/attack-A6.png using Guid(4781dec62b11ffb4a9f3cca005d6ab57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0770a0a6f3c1dcf9d2d31d2f226025') in 0.010791 seconds 
+  Import took 0.013208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/jump-5.png
+  artifactKey: Guid(79110db1cbca0064fb84324540fd21a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/jump-5.png using Guid(79110db1cbca0064fb84324540fd21a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea313b6ec62af9ac36999204fc1411fc') in 0.010238 seconds 
+  Import took 0.012545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/attack-B5.png
+  artifactKey: Guid(40f21547c0783134a949366e117afb38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/attack-B5.png using Guid(40f21547c0783134a949366e117afb38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e558b52698e7d7f4e9a5a8921a7b202e') in 0.009466 seconds 
+  Import took 0.012018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/attack-A5.png
+  artifactKey: Guid(4713dc40a5acbd442b80ffb459d799c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/attack-A5.png using Guid(4713dc40a5acbd442b80ffb459d799c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae0a8942023efa4092e71b271895e4f') in 0.010093 seconds 
+  Import took 0.012854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/dead-2.png
+  artifactKey: Guid(0cfd4f05a7016f841bdc2890b3034ed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/dead-2.png using Guid(0cfd4f05a7016f841bdc2890b3034ed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cf31f17295c6de046e68566207fba31') in 0.009487 seconds 
+  Import took 0.012637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/hit-1.png
+  artifactKey: Guid(d9aec6a46a71e6b40b88d2282b2781e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/hit-1.png using Guid(d9aec6a46a71e6b40b88d2282b2781e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc4b3bf6a9e41b5bdf552765facfb28') in 0.009719 seconds 
+  Import took 0.012104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/attack-B1.png
+  artifactKey: Guid(2996d796e449946468de23654d897467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/attack-B1.png using Guid(2996d796e449946468de23654d897467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37db47f0d450e5313b20810396f3f3d4') in 0.008627 seconds 
+  Import took 0.011150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/walk-2.png
+  artifactKey: Guid(acf640223d056174688b1609faf70e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/walk-2.png using Guid(acf640223d056174688b1609faf70e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3bf8b4fff5e178a521e7bef380de18e') in 0.010927 seconds 
+  Import took 0.013237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/walk-1.png
+  artifactKey: Guid(a7fab4d5e73126e4394742f72eee9f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/walk-1.png using Guid(a7fab4d5e73126e4394742f72eee9f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a170fbc1fc94564f562a55b2bcbeeb5d') in 0.009097 seconds 
+  Import took 0.011787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/attack-B7.png
+  artifactKey: Guid(c76c77c705401a14f9368fbcc2c3625a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/attack-B7.png using Guid(c76c77c705401a14f9368fbcc2c3625a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de3ab8b8ce150134a03edff38c5c1326') in 0.011429 seconds 
+  Import took 0.014238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/walk-5.png
+  artifactKey: Guid(cb85cb5e3425a814398015527ff9bc4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/walk-5.png using Guid(cb85cb5e3425a814398015527ff9bc4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1557d45dea806d1867ae25070253de8') in 0.010083 seconds 
+  Import took 0.012618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/hit-3.png
+  artifactKey: Guid(78fdbc13f75b2ff41a93203855a2b546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/hit-3.png using Guid(78fdbc13f75b2ff41a93203855a2b546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e491a930601686074bdcc8ea5d014b5f') in 0.011073 seconds 
+  Import took 0.013429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/attack-B3.png
+  artifactKey: Guid(304da8e4e3ca22d4f8ac368e350f4d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/attack-B3.png using Guid(304da8e4e3ca22d4f8ac368e350f4d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74316a5cc088fcc0f4247fd389c0db42') in 0.010284 seconds 
+  Import took 0.012825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/jump-3.png
+  artifactKey: Guid(030ebc6024b035742a1f0b52fc8398a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/jump-3.png using Guid(030ebc6024b035742a1f0b52fc8398a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '362662a9709fdb45e04de12d3db19957') in 0.010580 seconds 
+  Import took 0.013043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/attack-B10.png
+  artifactKey: Guid(258417c0783ce824e97b514a2437d35a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/attack-B10.png using Guid(258417c0783ce824e97b514a2437d35a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27a5ee170adabd7d4cbfa0d0a37596f3') in 0.009595 seconds 
+  Import took 0.012109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/jump-1.png
+  artifactKey: Guid(f7369fbd274b8ef459f0a3413a60cfc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/jump-1.png using Guid(f7369fbd274b8ef459f0a3413a60cfc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f12d824dd4a9e33fb4111f6d9fe75d82') in 0.010363 seconds 
+  Import took 0.012861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/jump-2.png
+  artifactKey: Guid(0295dd3a4ab69024d97ee39792575c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/jump-2.png using Guid(0295dd3a4ab69024d97ee39792575c1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '135d726baceaad7313cdc2b13d0fcfcf') in 0.009342 seconds 
+  Import took 0.011786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/dead-4.png
+  artifactKey: Guid(7e8ba4b2b7507f047a6233b78457fb52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/dead-4.png using Guid(7e8ba4b2b7507f047a6233b78457fb52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ed6e78fceaa5e54d7ffc3847b9163c') in 0.009411 seconds 
+  Import took 0.011860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/hit-2.png
+  artifactKey: Guid(6d9bf7f390062134d89c13528ef83b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/hit-2.png using Guid(6d9bf7f390062134d89c13528ef83b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d7e3886fcf6c94d5a07425485ab4be9') in 0.010717 seconds 
+  Import took 0.013183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/dead-3.png
+  artifactKey: Guid(2019113e6291591499504292116c6279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/dead-3.png using Guid(2019113e6291591499504292116c6279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14296b3c7d8a548ab41eecc6aba98bcb') in 0.010346 seconds 
+  Import took 0.012828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/jump-4.png
+  artifactKey: Guid(3324cc57d8c029545b5eb6fee623dd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/jump-4.png using Guid(3324cc57d8c029545b5eb6fee623dd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df1f6c265f45513e627e218630e128f8') in 0.009342 seconds 
+  Import took 0.011910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/attack-B8.png
+  artifactKey: Guid(9c95a885b6e8f4444837047a57ed3ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/attack-B8.png using Guid(9c95a885b6e8f4444837047a57ed3ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddc0b3f83d3f531872687e55386f3a27') in 0.009840 seconds 
+  Import took 0.012368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/idle-1.png
+  artifactKey: Guid(f28e5060b1c87274280e20a11304db5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/idle-1.png using Guid(f28e5060b1c87274280e20a11304db5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94e1966636924f0a11cd1bff57dfba16') in 0.009397 seconds 
+  Import took 0.012210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/walk-4.png
+  artifactKey: Guid(ab87589022c07504eaca608f5eee8dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/walk-4.png using Guid(ab87589022c07504eaca608f5eee8dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d1e1ed6ef3a14ee4865591a787cfd93') in 0.009460 seconds 
+  Import took 0.012078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/attack-A3.png
+  artifactKey: Guid(4de7f306317c83e42b02096aebffa3ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/attack-A3.png using Guid(4de7f306317c83e42b02096aebffa3ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42e21758aaf5e5cf05159488cfa969b1') in 0.007201 seconds 
+  Import took 0.009611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/dead-1.png
+  artifactKey: Guid(ec4d5dc85735f19488feb5c4276cc9bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/dead-1.png using Guid(ec4d5dc85735f19488feb5c4276cc9bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '676085f4dce1433b6581a01a1aab6243') in 0.009821 seconds 
+  Import took 0.012341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/attack-A4.png
+  artifactKey: Guid(4b2b4fc361b72eb48a112d4c07ac5c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/attack-A4.png using Guid(4b2b4fc361b72eb48a112d4c07ac5c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a451edef3d0508ef0209159fe93dd5d') in 0.006671 seconds 
+  Import took 0.009232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/attack-A2.png
+  artifactKey: Guid(73a74bccc04f0694cbcc4f396f20fa90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/attack-A2.png using Guid(73a74bccc04f0694cbcc4f396f20fa90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37dd14ed44e8ec3a916f0818438f46ba') in 0.010106 seconds 
+  Import took 0.012987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/attack-B2.png
+  artifactKey: Guid(fa5b1207bbf504b4faa399dbe611a16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/attack-B2.png using Guid(fa5b1207bbf504b4faa399dbe611a16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13ac163d06dd675271b0f038ca48c5f1') in 0.006892 seconds 
+  Import took 0.009326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy4/walk-6.png
+  artifactKey: Guid(5fe535831433b0849b15f71768973978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy4/walk-6.png using Guid(5fe535831433b0849b15f71768973978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e491bb27ba355cf58277a010a5092b99') in 0.010173 seconds 
+  Import took 0.012716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.443366 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3
+  artifactKey: Guid(f7bd740c50633dc43a906bf2fc5e8c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3 using Guid(f7bd740c50633dc43a906bf2fc5e8c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c1487119a21c03b494d666b9868f20') in 0.006174 seconds 
+  Import took 0.008816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.065889 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-A1.png
+  artifactKey: Guid(265406c4eb5581249bb0f7999d03774c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-A1.png using Guid(265406c4eb5581249bb0f7999d03774c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3056cd4295f9ad32f5192e1d79503699') in 0.008476 seconds 
+  Import took 0.011236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-B10.png
+  artifactKey: Guid(b9cbfae5b22c9f74f869b56b802373bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-B10.png using Guid(b9cbfae5b22c9f74f869b56b802373bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75031b4e299fc52e4c74af7b9f8dae94') in 0.009061 seconds 
+  Import took 0.011497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-B7.png
+  artifactKey: Guid(ffed92ea82fa70e459618a2660cfe347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-B7.png using Guid(ffed92ea82fa70e459618a2660cfe347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b80cd7cc2637243e949ac5241b1806e') in 0.008388 seconds 
+  Import took 0.010992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-A6.png
+  artifactKey: Guid(54e44dcb5a49be04b8115b401cd78d2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-A6.png using Guid(54e44dcb5a49be04b8115b401cd78d2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8215ccc91bbff3288d2892a9051076b7') in 0.009402 seconds 
+  Import took 0.011986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/hit-3.png
+  artifactKey: Guid(a80a75ba0dcdcca44bb16b950986375b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/hit-3.png using Guid(a80a75ba0dcdcca44bb16b950986375b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c541df96d13e9058f8ea868b5bca44f') in 0.008967 seconds 
+  Import took 0.012004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/idle-4.png
+  artifactKey: Guid(03733ed159cdb8541a3488919b1e6cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/idle-4.png using Guid(03733ed159cdb8541a3488919b1e6cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c02d4531c52ed3a640ff08cc2a42c70b') in 0.009467 seconds 
+  Import took 0.012484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/hit-1.png
+  artifactKey: Guid(74c10894fd143fa4493f72c3bc8f1367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/hit-1.png using Guid(74c10894fd143fa4493f72c3bc8f1367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2275205dd3e6de747f59f7bed8cc1b1d') in 0.009235 seconds 
+  Import took 0.011787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/idle-2.png
+  artifactKey: Guid(3499081f32826c44f9c92212e855410d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/idle-2.png using Guid(3499081f32826c44f9c92212e855410d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e1e3dabb39af5a555972edddbf5a7b5') in 0.008041 seconds 
+  Import took 0.010749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/walk-2.png
+  artifactKey: Guid(6bfffeba0b62cf5448929c448f711700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/walk-2.png using Guid(6bfffeba0b62cf5448929c448f711700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6b05699281f6bef3be8e9b67d9afad') in 0.009808 seconds 
+  Import took 0.012555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/dead-5.png
+  artifactKey: Guid(62802fd32fecc9c4b8b1ea6f0902233c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/dead-5.png using Guid(62802fd32fecc9c4b8b1ea6f0902233c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88aa7289a7325d6c3f739ecba93de98') in 0.009927 seconds 
+  Import took 0.012460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-C6.png
+  artifactKey: Guid(7f9af0bdf6bed18488b5037877de5627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-C6.png using Guid(7f9af0bdf6bed18488b5037877de5627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d007e45cd7e7f44925cd588052da6ff') in 0.010634 seconds 
+  Import took 0.013552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-A5.png
+  artifactKey: Guid(a13fef80e4f845e448f126d026ac31a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-A5.png using Guid(a13fef80e4f845e448f126d026ac31a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfe0f39e2fb3bed2acf1253e397a23d4') in 0.009299 seconds 
+  Import took 0.011666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-C7.png
+  artifactKey: Guid(9ed74cf91486f7640b10fbb54e84ae98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-C7.png using Guid(9ed74cf91486f7640b10fbb54e84ae98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '112de7de1314524f7ca52f1fb485b31f') in 0.009982 seconds 
+  Import took 0.012604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/dead-4.png
+  artifactKey: Guid(987f678285b8fe84bac093113b0edf80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/dead-4.png using Guid(987f678285b8fe84bac093113b0edf80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6a4527a3f1c4107c4f63bb506ec6bf8') in 0.008877 seconds 
+  Import took 0.011614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/walk-1.png
+  artifactKey: Guid(1834e50e1f258904ba803e00c5e899c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/walk-1.png using Guid(1834e50e1f258904ba803e00c5e899c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59f346b233e9fbfc84319e88ce93eccc') in 0.008271 seconds 
+  Import took 0.010942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-C8.png
+  artifactKey: Guid(80c8373041307574b98fb385406fad57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-C8.png using Guid(80c8373041307574b98fb385406fad57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a82917839ed94dfa16851fa213c98ef3') in 0.010156 seconds 
+  Import took 0.012628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-B4.png
+  artifactKey: Guid(06423f39ae16b3849a9ee4295973598f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-B4.png using Guid(06423f39ae16b3849a9ee4295973598f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b4716273429c9d8fd1c796cd5a7641') in 0.009677 seconds 
+  Import took 0.012250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/hit-2.png
+  artifactKey: Guid(7cad485b53033954196cb63a5a7fc086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/hit-2.png using Guid(7cad485b53033954196cb63a5a7fc086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb515846ffe24c1997628495b7c9ee18') in 0.009296 seconds 
+  Import took 0.011585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/dead-2.png
+  artifactKey: Guid(a3352f354f9492342beb58937cf4baad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/dead-2.png using Guid(a3352f354f9492342beb58937cf4baad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e364557b6aa46b8f9caa30132aeaca') in 0.009486 seconds 
+  Import took 0.011926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-B8.png
+  artifactKey: Guid(422c03bc4fb8dfe4d9b02348961a9aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-B8.png using Guid(422c03bc4fb8dfe4d9b02348961a9aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c7b4effeb9e9eba354f72284a23cc93') in 0.009621 seconds 
+  Import took 0.012434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-B11.png
+  artifactKey: Guid(342b9aa1508b26c44951671e25d81119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-B11.png using Guid(342b9aa1508b26c44951671e25d81119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e20942cf960207b90ad0f3243c91a945') in 0.006875 seconds 
+  Import took 0.009372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-B1.png
+  artifactKey: Guid(1dcaf366b6f3abe41986fc39ead7be7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-B1.png using Guid(1dcaf366b6f3abe41986fc39ead7be7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f43f60319b7688de0dddbbc51cf5b99') in 0.006756 seconds 
+  Import took 0.009447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-A3.png
+  artifactKey: Guid(eb383fd646f7a614381e41b9bf4729dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-A3.png using Guid(eb383fd646f7a614381e41b9bf4729dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78138a6de60bab3358d5486842ad144a') in 0.008937 seconds 
+  Import took 0.011476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/dead-1.png
+  artifactKey: Guid(ef4a1cf7ec1c3ef44a0e7f57238afed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/dead-1.png using Guid(ef4a1cf7ec1c3ef44a0e7f57238afed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd686c8dfcd5faef13122e6b56cb746d') in 0.006970 seconds 
+  Import took 0.009288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-B3.png
+  artifactKey: Guid(c28b7c74e33a7b648aca59528fc31631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-B3.png using Guid(c28b7c74e33a7b648aca59528fc31631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77acb90aa70d770e77c6c460e6e441b1') in 0.009436 seconds 
+  Import took 0.012076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/dead-3.png
+  artifactKey: Guid(ba0278f0728aa294b818d1d4fd4a7ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/dead-3.png using Guid(ba0278f0728aa294b818d1d4fd4a7ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f5c1606243bb5e981713d03a79c521c') in 0.009384 seconds 
+  Import took 0.011851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/walk-3.png
+  artifactKey: Guid(5ea049b6ae0c87f40aa3f0f5e7bdc567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/walk-3.png using Guid(5ea049b6ae0c87f40aa3f0f5e7bdc567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe7d29e9aa9c9c8facc5b2853d570f3d') in 0.009573 seconds 
+  Import took 0.012304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-C1.png
+  artifactKey: Guid(a30bc6eb198f2614e9a0b59208f6d94a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-C1.png using Guid(a30bc6eb198f2614e9a0b59208f6d94a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7461d4540d573225dbc2fce6cce01fb5') in 0.010404 seconds 
+  Import took 0.012867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/idle-1.png
+  artifactKey: Guid(6e4460827a2fe4f43b83b4c9c55ec1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/idle-1.png using Guid(6e4460827a2fe4f43b83b4c9c55ec1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c5b604ac60cab250606b52206365f1') in 0.006924 seconds 
+  Import took 0.009996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-C4.png
+  artifactKey: Guid(4698c5a1f5a5eca4fb015729046dd6ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-C4.png using Guid(4698c5a1f5a5eca4fb015729046dd6ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b046f7a97e3f7e475b6c229eadaf5c0') in 0.009621 seconds 
+  Import took 0.012551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-A10.png
+  artifactKey: Guid(055bdcfeca6db6b42909cf59de4d5cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-A10.png using Guid(055bdcfeca6db6b42909cf59de4d5cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa30901683f408ee074b7486a6b4832c') in 0.007158 seconds 
+  Import took 0.009813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-B6.png
+  artifactKey: Guid(7feca64fb194c4c44bb16cbdc5101ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-B6.png using Guid(7feca64fb194c4c44bb16cbdc5101ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cfa5c7add35a81419cb1fd556aa5eef') in 0.009179 seconds 
+  Import took 0.011719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-A7.png
+  artifactKey: Guid(7a29ea24a0666404881687fb159f76a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-A7.png using Guid(7a29ea24a0666404881687fb159f76a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ace2f21c6e9135d6fbc3ee2a3a0a0e3a') in 0.009391 seconds 
+  Import took 0.011914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/walk-4.png
+  artifactKey: Guid(fdee10d35cd1a3e4cbf2c18cbaccbaad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/walk-4.png using Guid(fdee10d35cd1a3e4cbf2c18cbaccbaad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8dd7e6979af9a3c170017277aeeaad0') in 0.009121 seconds 
+  Import took 0.011480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/idle-3.png
+  artifactKey: Guid(ccf98b6d631f2fc46a93f7683ea86482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/idle-3.png using Guid(ccf98b6d631f2fc46a93f7683ea86482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '943a8633d3e48690bd08d21d23b546eb') in 0.010413 seconds 
+  Import took 0.013102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-C3.png
+  artifactKey: Guid(4786a3341957de84fac51cfcaeef9f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-C3.png using Guid(4786a3341957de84fac51cfcaeef9f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '114045b18bd8578db34bd695fe902451') in 0.010828 seconds 
+  Import took 0.013617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-B9.png
+  artifactKey: Guid(907ef88ec87b0a94f81407bb4cfff788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-B9.png using Guid(907ef88ec87b0a94f81407bb4cfff788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5a944b27d9b73c2f36f17c17178762c') in 0.008732 seconds 
+  Import took 0.011459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-A9.png
+  artifactKey: Guid(9a0ae200e9c42ba45ab8c2505d22151c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-A9.png using Guid(9a0ae200e9c42ba45ab8c2505d22151c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48c0ec1f9bbd2d43ddf27a277182206c') in 0.009194 seconds 
+  Import took 0.011837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-C2.png
+  artifactKey: Guid(e1f7fe1f93771b741b55924864dba2d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-C2.png using Guid(e1f7fe1f93771b741b55924864dba2d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47102719d72c03834efaa0efcfedf529') in 0.009859 seconds 
+  Import took 0.012428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-A4.png
+  artifactKey: Guid(41e030cfeca85454f92849c3d2d02795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-A4.png using Guid(41e030cfeca85454f92849c3d2d02795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8881d651c69179ec5e1e099497ba2461') in 0.009396 seconds 
+  Import took 0.012006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-C5.png
+  artifactKey: Guid(0c5f262e972f0e14fa53f809d4ec4f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-C5.png using Guid(0c5f262e972f0e14fa53f809d4ec4f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '132d4124da9f8731aea070d40e54a7d5') in 0.010156 seconds 
+  Import took 0.012604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-A2.png
+  artifactKey: Guid(4996548b77a338642aa3c0ae23843ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-A2.png using Guid(4996548b77a338642aa3c0ae23843ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aa3e43e6584b24e339ac7705682024a') in 0.009747 seconds 
+  Import took 0.012183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-B5.png
+  artifactKey: Guid(d9a0d056f1dbfb7429e3122623c2d105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-B5.png using Guid(d9a0d056f1dbfb7429e3122623c2d105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49ea7c07b73ef6dd5297fbacb76b2b08') in 0.010575 seconds 
+  Import took 0.013013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-A8.png
+  artifactKey: Guid(769c1d00bdf28e2418ee4cee4fa058d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-A8.png using Guid(769c1d00bdf28e2418ee4cee4fa058d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '494a6663ee42eadc44d52abd757e6876') in 0.010205 seconds 
+  Import took 0.012710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy3/attack-B2.png
+  artifactKey: Guid(d90a94ffed832704780470e66307fa71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy3/attack-B2.png using Guid(d90a94ffed832704780470e66307fa71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a961703079c5faf37f80420050b2a8') in 0.009257 seconds 
+  Import took 0.011698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.031161 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5
+  artifactKey: Guid(98cdd2ae08e14f34597905a9b9de7d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5 using Guid(98cdd2ae08e14f34597905a9b9de7d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '995d168a4f14e7303ec044b4dfbafc90') in 0.005106 seconds 
+  Import took 0.008675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042259 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/attack-A1.png
+  artifactKey: Guid(5b4b5bb559abd044791dedff1b79315e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/attack-A1.png using Guid(5b4b5bb559abd044791dedff1b79315e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c9e880e5fe0757d29b34aab1eb2d35') in 0.008996 seconds 
+  Import took 0.011829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/dead-3.png
+  artifactKey: Guid(3d7e3a440047dce44be5a1a8789481a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/dead-3.png using Guid(3d7e3a440047dce44be5a1a8789481a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8667208a2d840188f1fba547c2ea6594') in 0.009819 seconds 
+  Import took 0.012284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/run-2.png
+  artifactKey: Guid(3b9b7ec69ebddd747b6411cf1b52570a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/run-2.png using Guid(3b9b7ec69ebddd747b6411cf1b52570a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f25c5afa62059864731ac9483cdb7049') in 0.009956 seconds 
+  Import took 0.012501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/attack-A3.png
+  artifactKey: Guid(41a89ec87611d144ba345dde9f14eb7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/attack-A3.png using Guid(41a89ec87611d144ba345dde9f14eb7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '217f851f3b94bf75cc2042fd8ec8ac51') in 0.010083 seconds 
+  Import took 0.012601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/run-11.png
+  artifactKey: Guid(14b9b934bb01b7b428cc9adcf3fb723f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/run-11.png using Guid(14b9b934bb01b7b428cc9adcf3fb723f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79496670b0a5fc4601d563811bdc4d6d') in 0.009915 seconds 
+  Import took 0.012352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/hit-4.png
+  artifactKey: Guid(b4306c055fa498742b39c712cbcd6caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/hit-4.png using Guid(b4306c055fa498742b39c712cbcd6caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91086d75fd59b92142c8481ca6881adc') in 0.010261 seconds 
+  Import took 0.012772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/dead-4.png
+  artifactKey: Guid(2681b9ea165818a40a0d60507953ce71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/dead-4.png using Guid(2681b9ea165818a40a0d60507953ce71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14441ebb7a3137d93da2cd294adb3510') in 0.009680 seconds 
+  Import took 0.012129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/idle-1.png
+  artifactKey: Guid(eb3711790d9a7304992355d8f5f9eeae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/idle-1.png using Guid(eb3711790d9a7304992355d8f5f9eeae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d91a23fd7b580c0bf8462e88a0dd509') in 0.011211 seconds 
+  Import took 0.013569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/run-4.png
+  artifactKey: Guid(36b44d6a8d2980d4d89ff6330f2078cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/run-4.png using Guid(36b44d6a8d2980d4d89ff6330f2078cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db7768ca43451ab1577164caa14bea1f') in 0.010479 seconds 
+  Import took 0.012927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/attack-A2.png
+  artifactKey: Guid(9351e6ac189df5a409a44e7b19fb1308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/attack-A2.png using Guid(9351e6ac189df5a409a44e7b19fb1308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86cc70d17c2a6fe3616d4d23ff79bc5b') in 0.010125 seconds 
+  Import took 0.012632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/attack-B5.png
+  artifactKey: Guid(027906b99dfaf3841b34ff09f2de01af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/attack-B5.png using Guid(027906b99dfaf3841b34ff09f2de01af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '559305276d97541a17b8eae0f1b72c91') in 0.008748 seconds 
+  Import took 0.011323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/run-5.png
+  artifactKey: Guid(0872883f26db6b846bf3b9427f298aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/run-5.png using Guid(0872883f26db6b846bf3b9427f298aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da11609f54a7a73e4bc7c9b6ac10a928') in 0.010607 seconds 
+  Import took 0.013395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/hit-2.png
+  artifactKey: Guid(66fe9a1423463254b858ecfc79605871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/hit-2.png using Guid(66fe9a1423463254b858ecfc79605871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7169da82fc6adfef82b925fb9f2d5cc4') in 0.010787 seconds 
+  Import took 0.013398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/attack-B3.png
+  artifactKey: Guid(cf65ff94d9a87244587dbc101a5d0a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/attack-B3.png using Guid(cf65ff94d9a87244587dbc101a5d0a21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e216231ca7cd66d5a61a1d07c825e28') in 0.010174 seconds 
+  Import took 0.012916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/run-9.png
+  artifactKey: Guid(15274a3e6e7df2642aa09dc44671d833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/run-9.png using Guid(15274a3e6e7df2642aa09dc44671d833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3fdf763046d522b36f20fa676baff4d') in 0.010095 seconds 
+  Import took 0.012926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/dead-2.png
+  artifactKey: Guid(31f60db64b796164bb8fa35735e9a76f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/dead-2.png using Guid(31f60db64b796164bb8fa35735e9a76f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a7a1e1f92537418e680c14abdb868a') in 0.010166 seconds 
+  Import took 0.013010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/attack-B2.png
+  artifactKey: Guid(ed9b567ed7c32dc4cbcac37af8841754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/attack-B2.png using Guid(ed9b567ed7c32dc4cbcac37af8841754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '554535bc202d5d1c9111a05dc5b99598') in 0.009384 seconds 
+  Import took 0.012126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/jump-6.png
+  artifactKey: Guid(6bd35ac1b580ddd4e87246dcf0dc4eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/jump-6.png using Guid(6bd35ac1b580ddd4e87246dcf0dc4eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72a77a36ed28361aeb8032b2de427ca4') in 0.009482 seconds 
+  Import took 0.012047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/jump-4.png
+  artifactKey: Guid(9fb7783f3be19e247a2166332029b4f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/jump-4.png using Guid(9fb7783f3be19e247a2166332029b4f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a6a244a897e8a97a728907c76f653cb') in 0.010373 seconds 
+  Import took 0.013093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/jump-3.png
+  artifactKey: Guid(6c4b72a04c613ee40a3d3ce5740fc370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/jump-3.png using Guid(6c4b72a04c613ee40a3d3ce5740fc370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba600bf0524f09c6ad32989d876b8e17') in 0.010608 seconds 
+  Import took 0.013238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/run-8.png
+  artifactKey: Guid(a7fc8ff0af10ed84ebafa42ad6960f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/run-8.png using Guid(a7fc8ff0af10ed84ebafa42ad6960f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b293a3c1bc12f9fbf868ac44f45886') in 0.011036 seconds 
+  Import took 0.013447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/run-12.png
+  artifactKey: Guid(1c19c834d22bbda4f8269585a89f41fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/run-12.png using Guid(1c19c834d22bbda4f8269585a89f41fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1ce127854d94315ed782254d8512716') in 0.010223 seconds 
+  Import took 0.012766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/run-10.png
+  artifactKey: Guid(001788cefd5b75f4dbf280b778ffd227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/run-10.png using Guid(001788cefd5b75f4dbf280b778ffd227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17ce1e35200df593c882854c143f0fee') in 0.010442 seconds 
+  Import took 0.013078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/jump-5.png
+  artifactKey: Guid(ff8c22abfeb161146a5de37d00a1430d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/jump-5.png using Guid(ff8c22abfeb161146a5de37d00a1430d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f50230d2e365515a38217a1f32b6630') in 0.012112 seconds 
+  Import took 0.014425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/run-7.png
+  artifactKey: Guid(8804832af51fd224e833907ef31ab1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/run-7.png using Guid(8804832af51fd224e833907ef31ab1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a3dd387def31456cfaa6a80749b5383') in 0.009912 seconds 
+  Import took 0.012492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/jump-1.png
+  artifactKey: Guid(cde6a51afd6aa9a408d1258d11671bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/jump-1.png using Guid(cde6a51afd6aa9a408d1258d11671bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f05464915b75f22207715c677f696fb') in 0.009121 seconds 
+  Import took 0.011940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/attack-B4.png
+  artifactKey: Guid(e1fdf1a4ba6958647bcd945873ac6e65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/attack-B4.png using Guid(e1fdf1a4ba6958647bcd945873ac6e65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb3ecaf6cd66f175a17139189fdcb5d1') in 0.010209 seconds 
+  Import took 0.012802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/hit-3.png
+  artifactKey: Guid(9c40aa4b6471d854c88de8253331279a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/hit-3.png using Guid(9c40aa4b6471d854c88de8253331279a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa86d793e3748b6021949de1c35bf8c8') in 0.010351 seconds 
+  Import took 0.012987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/attack-B1.png
+  artifactKey: Guid(490d52efbafe6184d8ff89ef9677b3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/attack-B1.png using Guid(490d52efbafe6184d8ff89ef9677b3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '805f33b1d03dc094881ebae595d6f69e') in 0.010527 seconds 
+  Import took 0.013042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/attack-A4.png
+  artifactKey: Guid(5582bd9b3b2d30041aa476896aca6576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/attack-A4.png using Guid(5582bd9b3b2d30041aa476896aca6576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83d8129220838e85119cbc50d3ea20f2') in 0.010525 seconds 
+  Import took 0.012926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/attack-A6.png
+  artifactKey: Guid(bad448c2c13a09947a747764808348b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/attack-A6.png using Guid(bad448c2c13a09947a747764808348b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f5ddce4775da82c539e44052dec7af5') in 0.010847 seconds 
+  Import took 0.013471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/hit-1.png
+  artifactKey: Guid(49a5f5035c8b8f34da87c470086f8a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/hit-1.png using Guid(49a5f5035c8b8f34da87c470086f8a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b87b489aa77c850f1cb03d0843ada97e') in 0.010179 seconds 
+  Import took 0.012540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/jump-2.png
+  artifactKey: Guid(3e943c1d00529284eb403cf58465cd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/jump-2.png using Guid(3e943c1d00529284eb403cf58465cd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19e66a854e25602c441b94e82a5e327f') in 0.009742 seconds 
+  Import took 0.012164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/run-1.png
+  artifactKey: Guid(32cfc26b3378a8b4f9d93e72c7c2cb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/run-1.png using Guid(32cfc26b3378a8b4f9d93e72c7c2cb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6281ef6b3f8225cd9f29b4a1a6cbf875') in 0.010894 seconds 
+  Import took 0.013387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/run-6.png
+  artifactKey: Guid(e4c3f65507bfa64438de32a3a28aebc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/run-6.png using Guid(e4c3f65507bfa64438de32a3a28aebc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad40bffd456c967035c52fea737d8ca') in 0.010153 seconds 
+  Import took 0.012618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/dead-1.png
+  artifactKey: Guid(e1c6bba8449913648a8ea6990d4a9060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/dead-1.png using Guid(e1c6bba8449913648a8ea6990d4a9060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c1e5e1b5ad0168b6ef50c46c9198f08') in 0.009557 seconds 
+  Import took 0.012283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/attack-A5.png
+  artifactKey: Guid(ad356ffa6d5fb044faa7b7a6441a601b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/attack-A5.png using Guid(ad356ffa6d5fb044faa7b7a6441a601b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a672c3d0403373fabe1bce523ed17827') in 0.011208 seconds 
+  Import took 0.013904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/run-3.png
+  artifactKey: Guid(5061efb2ab941b4449aeacbbeab9e90c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/run-3.png using Guid(5061efb2ab941b4449aeacbbeab9e90c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '787ce9909c337f41b6dd649cabb36d48') in 0.010609 seconds 
+  Import took 0.013115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/attack-B6.png
+  artifactKey: Guid(5106821bde0c0d5459d9016d6425abab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/attack-B6.png using Guid(5106821bde0c0d5459d9016d6425abab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a91796a7ae6cb70829b25aea8bc7ff8') in 0.010357 seconds 
+  Import took 0.012987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Hero and Opponents/Sprites/Enemy5/idle-2.png
+  artifactKey: Guid(c9625408524ce384f927cdec175e67b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Enemy5/idle-2.png using Guid(c9625408524ce384f927cdec175e67b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac43eba993c0af9e7e59c46b4717034b') in 0.010560 seconds 
+  Import took 0.013015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.363858 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player
+  artifactKey: Guid(75ca810d79817194d9ddcae88eb4460e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player using Guid(75ca810d79817194d9ddcae88eb4460e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05a6cbff6d09ddc876600eb663ce43a7') in 0.005746 seconds 
+  Import took 0.008537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049309 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-1.png
+  artifactKey: Guid(2a25ca5ed66f7e54c8e97c7ce3315866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-1.png using Guid(2a25ca5ed66f7e54c8e97c7ce3315866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7376777970f2cfcce7e42390e4f4c442') in 0.009264 seconds 
+  Import took 0.012651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-7.png
+  artifactKey: Guid(0d74f26aebcad7746a6f3eb653d1c254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-7.png using Guid(0d74f26aebcad7746a6f3eb653d1c254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfb019628123c6bd180d100f4f386a81') in 0.010667 seconds 
+  Import took 0.012981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-9.png
+  artifactKey: Guid(66dc4d1a395296e419ef441397056b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-9.png using Guid(66dc4d1a395296e419ef441397056b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e1b6d3b20391af549d4c9fad3e8b650') in 0.010767 seconds 
+  Import took 0.013293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-5.png
+  artifactKey: Guid(e0ebb88f3d6e3ac45a706d9ae526756a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-5.png using Guid(e0ebb88f3d6e3ac45a706d9ae526756a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd10cc532bb8386b1732611568ef5db87') in 0.010585 seconds 
+  Import took 0.013019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-2.png
+  artifactKey: Guid(13817b3cf750ff740947d2af54cd6194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-2.png using Guid(13817b3cf750ff740947d2af54cd6194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c25d431803e83a86bf94540f4b9bfa1') in 0.010954 seconds 
+  Import took 0.013506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-4.png
+  artifactKey: Guid(88b8a8e2c56d2ce41850d0d95fee3e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-4.png using Guid(88b8a8e2c56d2ce41850d0d95fee3e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '799a4b9d5661cfddedc66a0882ed40f0') in 0.009795 seconds 
+  Import took 0.012231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-10.png
+  artifactKey: Guid(1b61cad2f73466c468eb7e75edbb930e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-10.png using Guid(1b61cad2f73466c468eb7e75edbb930e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3503591d484aa7d783782ae4c0f11f0') in 0.012127 seconds 
+  Import took 0.014571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-11.png
+  artifactKey: Guid(6b54e6c1b030f924ea6b6c2428036b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-11.png using Guid(6b54e6c1b030f924ea6b6c2428036b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7278e2d9eeaaee64b5d18c0146ad378e') in 0.010981 seconds 
+  Import took 0.013592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-3.png
+  artifactKey: Guid(3ea205e6dac68034db92b97d51d4ffd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-3.png using Guid(3ea205e6dac68034db92b97d51d4ffd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56f34fe907b1be442348bb87ae55353b') in 0.010423 seconds 
+  Import took 0.012904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-8.png
+  artifactKey: Guid(7ef555a90bd480947946ac512b5cb5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-8.png using Guid(7ef555a90bd480947946ac512b5cb5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40e96e32a4c36d14b0508a120c6f93ab') in 0.009782 seconds 
+  Import took 0.012449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-6.png
+  artifactKey: Guid(edc98b22a0e5bd9438841ddd121b683b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/walk-with-weapon-6.png using Guid(edc98b22a0e5bd9438841ddd121b683b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14656e7b34f3af28d945ece7503d7db0') in 0.010487 seconds 
+  Import took 0.013126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 111.775887 seconds.
+  path: Assets/Monsters Creatures Fantasy
+  artifactKey: Guid(65114ac858f2282489561988812f730e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy using Guid(65114ac858f2282489561988812f730e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dda66e11334221aba6db9eef1e14a5a') in 0.005604 seconds 
+  Import took 0.008493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.478944 seconds.
+  path: Assets/Monsters Creatures Fantasy/Animations
+  artifactKey: Guid(416987a187104234780ffa45187aced9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Animations using Guid(416987a187104234780ffa45187aced9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb3052e98cda9ca64fd3434456bbe451') in 0.005041 seconds 
+  Import took 0.007750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.656403 seconds.
+  path: Assets/Monsters Creatures Fantasy/Animations/Skeleton
+  artifactKey: Guid(062750afd9858e248a40b2593de33aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Animations/Skeleton using Guid(062750afd9858e248a40b2593de33aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f782e121d7dc2f118770c58ad54358e') in 0.004887 seconds 
+  Import took 0.008396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.623732 seconds.
+  path: Assets/Monsters Creatures Fantasy/Animations/Skeleton/Skeleton_anim.anim
+  artifactKey: Guid(e34540a9147cd2c47b85b20ea9470721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Animations/Skeleton/Skeleton_anim.anim using Guid(e34540a9147cd2c47b85b20ea9470721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a40c6e4007bef55fdec2f51c67167470') in 0.008283 seconds 
+  Import took 0.011059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.825136 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites
+  artifactKey: Guid(4996574f823d4d4428b84c837beed802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites using Guid(4996574f823d4d4428b84c837beed802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff33e8f4b35c5d66f0a3c44398452703') in 0.005642 seconds 
+  Import took 0.008497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.866949 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton
+  artifactKey: Guid(fd6e1b5c7ba099a4794022de3b75a7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton using Guid(fd6e1b5c7ba099a4794022de3b75a7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86aa15fc62001daf13e201a4c3525f17') in 0.002171 seconds 
+  Import took 0.004887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069723 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Attack1.png
+  artifactKey: Guid(5f19f67e94a2e2f4ba57d2b338387c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Attack1.png using Guid(5f19f67e94a2e2f4ba57d2b338387c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '758123f728b2e8bb23f4e315565c1b89') in 0.021813 seconds 
+  Import took 0.024719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Attack2.png
+  artifactKey: Guid(267c7fb536f99514ea7c4e7236d4bdf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Attack2.png using Guid(267c7fb536f99514ea7c4e7236d4bdf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65f5c6843212df14ce1ec0ec1b734277') in 0.021944 seconds 
+  Import took 0.024430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Death.png
+  artifactKey: Guid(29ba92ebaa6f6964083271810310d1ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Death.png using Guid(29ba92ebaa6f6964083271810310d1ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd243f02af04298b23711085a5c9cb1d') in 0.015309 seconds 
+  Import took 0.017746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Walk.png
+  artifactKey: Guid(c5b15ca3a0987ac46b73e4a04e12eeb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Walk.png using Guid(c5b15ca3a0987ac46b73e4a04e12eeb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '059b226fe6eda2416229aa258bfe4722') in 0.016265 seconds 
+  Import took 0.018879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Take Hit.png
+  artifactKey: Guid(f7fb89b82e205ea4ba8a88cee4d3070b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Take Hit.png using Guid(f7fb89b82e205ea4ba8a88cee4d3070b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '145db745e94f14016fff09f709f42e9b') in 0.015997 seconds 
+  Import took 0.018433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Idle.png
+  artifactKey: Guid(1018b0ba13578bf459bd254ae1a2be99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Idle.png using Guid(1018b0ba13578bf459bd254ae1a2be99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5da87f298fbca343d9e9dfa28d3e1b2') in 0.015036 seconds 
+  Import took 0.017404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Shield.png
+  artifactKey: Guid(f296174d37bb31841bccf9b56d811f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Skeleton/Shield.png using Guid(f296174d37bb31841bccf9b56d811f9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b986e593755f2d8be87d794d9846c2e7') in 0.015063 seconds 
+  Import took 0.017469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.105029 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom
+  artifactKey: Guid(c50392c3fe9138043b78e7611d958478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom using Guid(c50392c3fe9138043b78e7611d958478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf8cd3d26dd1850317397ea216c237b3') in 0.005087 seconds 
+  Import took 0.007939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.120139 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Attack1.png
+  artifactKey: Guid(5cdfcef2d5ef97347a8d7935407f81ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Attack1.png using Guid(5cdfcef2d5ef97347a8d7935407f81ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '306d0fdf32dd4ebf309a60276e62c5c3') in 0.019703 seconds 
+  Import took 0.022537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Run.png
+  artifactKey: Guid(c6ac0078f39473048b9f54d791095f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Run.png using Guid(c6ac0078f39473048b9f54d791095f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a289556b881786bcbda4218ea8cc98fd') in 0.021785 seconds 
+  Import took 0.024316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Idle.png
+  artifactKey: Guid(f8b30c2afe165d645b54d500a9c30862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Idle.png using Guid(f8b30c2afe165d645b54d500a9c30862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '278116555a26b79fa6e6062b98e12075') in 0.014607 seconds 
+  Import took 0.017152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Death.png
+  artifactKey: Guid(895ce69a98d58464aaaf85c1f9ee9497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Death.png using Guid(895ce69a98d58464aaaf85c1f9ee9497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dcb1a24c9cb6fc51011be36def4a2c2') in 0.014817 seconds 
+  Import took 0.017743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Attack2.png
+  artifactKey: Guid(179f77b4a77508644bb0e4717e8add6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Attack2.png using Guid(179f77b4a77508644bb0e4717e8add6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb3dbd9c68d03847a7c2a14a315bc1d4') in 0.022325 seconds 
+  Import took 0.024705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Take Hit.png
+  artifactKey: Guid(dcdda75e148449b4283619583230b32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Creatures Fantasy/Sprites/Mushroom/Take Hit.png using Guid(dcdda75e148449b4283619583230b32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a203b3426092bb01f83da2492ef2c398') in 0.015042 seconds 
+  Import took 0.017683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 146.492751 seconds.
+  path: Assets/Hero and Opponents
+  artifactKey: Guid(d71dd36c40064ff49b17e7b4f02b4f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents using Guid(d71dd36c40064ff49b17e7b4f02b4f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db2e869bf0592d72fbfe425aeac5c72e') in 0.006617 seconds 
+  Import took 0.009532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 198.544418 seconds.
+  path: Assets/Bringer Of Death
+  artifactKey: Guid(1315bfd22a9c625409698952b4ee60fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bringer Of Death using Guid(1315bfd22a9c625409698952b4ee60fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1360f8c0ca49651b827d7d44467c31d') in 0.005184 seconds 
+  Import took 0.008134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.591656 seconds.
+  path: Assets/Bringer Of Death/Sprite Sheet
+  artifactKey: Guid(19a87452f5a57214c96be3c04ed3be81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bringer Of Death/Sprite Sheet using Guid(19a87452f5a57214c96be3c04ed3be81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2514bac57c1f2b011545c307ed0f7341') in 0.005101 seconds 
+  Import took 0.007903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.354695 seconds.
+  path: Assets/Bringer Of Death/Sprite Sheet/Bringer-of-Death-SpritSheet.png
+  artifactKey: Guid(1914d95466e3d4341a618c35a56d5f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bringer Of Death/Sprite Sheet/Bringer-of-Death-SpritSheet.png using Guid(1914d95466e3d4341a618c35a56d5f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a8ab5f96da8e028f89e58ccb4ff652') in 0.096027 seconds 
+  Import took 0.099838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Bringer Of Death/Sprite Sheet/Bringer-of-Death-SpritSheet_no-Effect.png
+  artifactKey: Guid(38e26291822c9b9479504c21a5a98126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bringer Of Death/Sprite Sheet/Bringer-of-Death-SpritSheet_no-Effect.png using Guid(38e26291822c9b9479504c21a5a98126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e95a7d6e831c677106b6782f57664bc') in 0.094435 seconds 
+  Import took 0.097105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 983.672856 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/ShieldBlock
+  artifactKey: Guid(4b937f918a73faf489f3304dc3d3ef7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/ShieldBlock using Guid(4b937f918a73faf489f3304dc3d3ef7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c672d379500b5f05223b70d7ab57b73') in 0.006239 seconds 
+  Import took 0.009221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025591 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/ShieldBlock/shield-block-activ-1.png
+  artifactKey: Guid(4b73c30b0069a364d868db480d154f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/ShieldBlock/shield-block-activ-1.png using Guid(4b73c30b0069a364d868db480d154f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d51cb3dec60fddc986b427a13a50408') in 0.011738 seconds 
+  Import took 0.014536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/ShieldBlock/shield-block-center-1.png
+  artifactKey: Guid(7db68ea1db93633448dae78be82cfa05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/ShieldBlock/shield-block-center-1.png using Guid(7db68ea1db93633448dae78be82cfa05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66d43ac9c293fde43fc4440cffb95ea1') in 0.010341 seconds 
+  Import took 0.012860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/ShieldBlock/shield-block-activ-2.png
+  artifactKey: Guid(85664466a9d97cc40bd53bab3381718d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/ShieldBlock/shield-block-activ-2.png using Guid(85664466a9d97cc40bd53bab3381718d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb9f58bda681c0d1ecb42b9831f79a4d') in 0.010249 seconds 
+  Import took 0.013066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/ShieldBlock/shield-block-up-1.png
+  artifactKey: Guid(694358f58ad6f1a4fa64018b1c782a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/ShieldBlock/shield-block-up-1.png using Guid(694358f58ad6f1a4fa64018b1c782a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b24cd1864ad2b32350117220c832f501') in 0.011753 seconds 
+  Import took 0.014167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/ShieldBlock/shield-block-center-2.png
+  artifactKey: Guid(993a82fc48ffe884bad10c55d8fb3aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/ShieldBlock/shield-block-center-2.png using Guid(993a82fc48ffe884bad10c55d8fb3aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d71daafa7fd573f72e8641a2d0cd0be') in 0.011168 seconds 
+  Import took 0.013528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Hero and Opponents/Sprites/Player/ShieldBlock/shield-block-up-2.png
+  artifactKey: Guid(2577f675978ad5948b0d8b5bdcc9abd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hero and Opponents/Sprites/Player/ShieldBlock/shield-block-up-2.png using Guid(2577f675978ad5948b0d8b5bdcc9abd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d254f2f7c37f2d1638bd9f6ac119835') in 0.011421 seconds 
+  Import took 0.013883 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
