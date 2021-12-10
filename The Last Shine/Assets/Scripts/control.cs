@@ -10,6 +10,10 @@ public class control : MonoBehaviour
 
     private Animator anim, ataq,sal;
     public SpriteRenderer Sprite;
+
+    public bool betterJump = false;
+    public float fallMultiplier = 0.5f;
+    public float lowJumpMultiplayer = 1f;
     void Start()
     {
         rb2D = GetComponent<Rigidbody2D>();
@@ -24,14 +28,16 @@ public class control : MonoBehaviour
         if (Input.GetKey("right"))
         {
             rb2D.velocity = new Vector2(velocidad, rb2D.velocity.y);
-            anim.SetTrigger("Caminar");
+          
             Sprite.flipX = false;
+            anim.SetTrigger("Caminar");
         }
         else if (Input.GetKey("left"))
         {
             rb2D.velocity = new Vector2(-velocidad, rb2D.velocity.y);
-            anim.SetTrigger("Caminar");
+
             Sprite.flipX = true;
+            anim.SetTrigger("Caminar");
         }
 
         else {
@@ -48,6 +54,17 @@ public class control : MonoBehaviour
             rb2D.velocity = new Vector2(rb2D.velocity.x, saltar);
             sal.SetTrigger("Saltar");
         }
+        if (betterJump) {
+            if (rb2D.velocity.y < 0) {
+                rb2D.velocity += Vector2.up * Physics2D.gravity.y * (fallMultiplier) * Time.deltaTime;
+            }
+            if ( rb2D.velocity.y>0 && !Input.GetKey("space")) 
+            {
+                rb2D.velocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplayer) * Time.deltaTime;
+            }
+        
+        }
+
 
 
     }
