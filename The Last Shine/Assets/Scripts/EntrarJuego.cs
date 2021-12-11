@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+
 public class EntrarJuego : MonoBehaviour
 {
     public Text text;
@@ -26,7 +27,6 @@ public class EntrarJuego : MonoBehaviour
     }
     private void update() {
         if (inDoor && Input.GetKey("e")) {
-
 
             SceneManager.LoadScene(levelName);
         }
