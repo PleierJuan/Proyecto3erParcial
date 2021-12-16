@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Movgoblin : MonoBehaviour
 {
-    public float velocidad = 3.2f;
+    public float velocidad = 0f;
     Rigidbody2D rb2D;
     // Start is called before the first frame update
     void Start()
@@ -16,5 +16,10 @@ public class Movgoblin : MonoBehaviour
     void Update()
     {
         rb2D.velocity = new Vector2(-velocidad, rb2D.velocity.y);
+    }
+
+    void OnBecameVisible()
+    {
+        velocidad = 4.5f;
     }
 }
